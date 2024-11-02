@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](idriss.douiri.org)
-- Live Site URL: [here](idriss.douiri.org)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/bento-grid-2roO6OG8dkidriss.douiri.org)
+- Live Site URL: [here](idriss.douiri.orghttps://bento-grid-cyan.vercel.app/)
 
 ## My process
 
