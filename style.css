@@ -5,6 +5,7 @@
   --Yellow-500: hsl(39, 100%, 71%);
   --White: hsl(0, 0%, 100%);
   --Black: hsl(0, 0%, 7%);
+  height: 100%;
 }
 @font-face {
   font-family: DMsans;
@@ -25,8 +26,7 @@ body {
   font-family: DMsans, sans-serif;
   display: grid;
   place-content: center;
-  min-height: 100vh;
-  min-height: 100dvh;
+  min-height: 100%;
 }
 h2 {
   line-height: 0.9;
