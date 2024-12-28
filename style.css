@@ -25,6 +25,7 @@ body {
   font-family: DMsans, sans-serif;
   display: grid;
   place-content: center;
+  min-height: 100vh;
   min-height: 100dvh;
 }
 h2 {
